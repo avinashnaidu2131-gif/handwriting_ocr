@@ -1,7 +1,8 @@
 streamlit
-easyocr
 opencv-python-headless
 pillow
 numpy
 torch
 torchvision
+transformers
+sentencepiece
